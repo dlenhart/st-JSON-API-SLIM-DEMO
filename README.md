@@ -22,7 +22,9 @@ Demonstrating how to create a JSON API with Slim & using the API with AMCharts. 
 
 #Tutorial
 http://snowytech.com/drewlenhart/blog/create-json-api-p1
+
 http://snowytech.com/drewlenhart/blog/create-json-api-p2
+
 http://snowytech.com/drewlenhart/blog/create-json-api-p3
 
 #Website
