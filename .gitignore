@@ -2,6 +2,9 @@
 
 vendor
 
+*.phar
+*.lock
+
 # Extra ignores
 components
 .DS_Store
