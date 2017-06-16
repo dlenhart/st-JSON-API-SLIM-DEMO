@@ -3,15 +3,18 @@ st-JSON-API-SLIM-DEMO
 
 Demonstrating how to create a JSON API with Slim & using the API with AMCharts.  See tutorial links below.
 
-#Required
+Required
+----
 -Composer
 
 -MySQL
 
-#Packages
+Packages
+----
 -Slim 2.9
 
-#Install
+Install
+----
 1.  Download code.
 
 2.  Run ***my_rest_api.sql*** against your MySQL instance.
@@ -20,12 +23,14 @@ Demonstrating how to create a JSON API with Slim & using the API with AMCharts. 
 
 4.  Command line:  ***composer install*** or ***php composer.phar install***
 
-#Tutorial
-http://snowytech.com/drewlenhart/blog/create-json-api-p1
+Tutorial
+----
+http://www.drewlenhart.com/blog/create-json-api-p1
 
-http://snowytech.com/drewlenhart/blog/create-json-api-p2
+http://www.drewlenhart.com/blog/create-json-api-p2
 
-http://snowytech.com/drewlenhart/blog/create-json-api-p3
+http://www.drewlenhart.com/blog/create-json-api-p3
 
-#Website
+Website
+----
 www.drewlenhart.com
